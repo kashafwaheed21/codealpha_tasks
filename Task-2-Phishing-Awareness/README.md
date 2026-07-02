@@ -33,7 +33,6 @@ The objective of this project is to educate users about phishing attacks, common
 
 ---
 ---
-
 ## 📥 Download Presentation
 
 You can download the PowerPoint presentation here:
@@ -46,23 +45,25 @@ You can download the PowerPoint presentation here:
 
 ### Title Slide
 
-![Title Slide](screenshots/Slide1.png)
+![Title Slide](screenshots/Slide1.PNG)
 
 ### Phishing Attack Flow
 
-![Attack Flow](screenshots/Slide4.png)
+![Attack Flow](screenshots/Slide4.PNG)
 
 ### Real-World Example
 
-![Real-World Example](screenshots/Slide5.png)
+![Real-World Example](screenshots/Slide5.PNG)
 
 ### Best Practices
 
-![Best Practices](screenshots/Slide8.png)
+![Best Practices](screenshots/Slide8.PNG)
 
 ### Conclusion
 
-![Conclusion](screenshots/Slide10.png)
+![Conclusion](screenshots/Slide10.PNG)
+
+
 ## 👨‍💻 Author
 
 **Kashaf Waheed**
