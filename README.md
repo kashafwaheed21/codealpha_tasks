@@ -4,115 +4,128 @@
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-CodeAlpha-green)
 ![Status](https://img.shields.io/badge/Internship-In%20Progress-orange)
 
-## 📌 About
+Welcome to my CodeAlpha Cyber Security Internship repository.
 
-Welcome to my **CodeAlpha Cyber Security Internship** repository.
-
-This repository contains all the tasks completed during my internship. Each project focuses on different cybersecurity concepts, practical implementations, and security best practices.
+This repository contains all the tasks I completed during my internship at CodeAlpha. Each task helped me strengthen my practical knowledge of cybersecurity concepts, secure programming, phishing awareness, and network analysis.
 
 ---
 
-# 📂 Projects
+## 👨‍💻 Intern Information
 
-## ✅ Task 2 – Phishing Awareness Training
-
-### 📖 Description
-An educational cybersecurity project designed to raise awareness about phishing attacks, social engineering techniques, and online safety.
-
-### 📁 Contents
-- README.md
-- Phishing Awareness Presentation (.pptx)
-- Screenshots
-
-### 🎯 Key Topics
-- What is Phishing?
-- Types of Phishing Attacks
-- How to Identify Phishing Emails
-- Social Engineering
-- Best Security Practices
-- Real-World Examples
-
-📂 Folder:
-```
-Task-2-Phishing-Awareness
-```
+- **Name:** Kashaf Waheed
+- **Internship:** CodeAlpha Cyber Security Internship
+- **Domain:** Cyber Security
+- **Programming Language:** Python
 
 ---
 
-## ✅ Task 3 – Secure Coding Review
+# 📂 Completed Tasks
 
-### 📖 Description
-A secure coding project demonstrating how to identify vulnerabilities in an insecure login system and improve it by applying secure coding practices.
+## ✅ Task 1 – Phishing Awareness Training
 
-### 📁 Contents
-- README.md
-- vulnerable_login.py
-- secure_login.py
-- Secure_Coding_Review_Report.pdf
-- Screenshots
+### Description
+Learned how phishing attacks work, how to identify suspicious emails, fake websites, and common social engineering techniques.
 
-### 🔒 Security Improvements
-- Password masking
+### Skills Learned
+- Phishing Detection
+- Email Security
+- Social Engineering Awareness
+- Cyber Security Best Practices
+
+---
+
+## ✅ Task 2 – Secure Coding Review
+
+### Description
+Reviewed an intentionally vulnerable Python login system, identified security flaws, and developed a more secure version by applying secure coding practices.
+
+### Security Improvements
+- Password masking using `getpass`
 - Limited login attempts
-- Stronger authentication logic
-- Improved user validation
-- Better user feedback
+- Removed unnecessary information exposure
+- Improved login validation
+- Better program structure
 
-📂 Folder:
-```
-Task-3-Secure-Coding-Review
-```
+### Skills Learned
+- Secure Coding
+- Authentication
+- Python Security
+- Code Review
+- Defensive Programming
 
 ---
 
-# 🚀 Skills Demonstrated
+## ✅ Task 3 – Basic Network Sniffer
 
-- Python Programming
+### Description
+Developed a Python-based network packet sniffer using Scapy that captures live network traffic and displays useful packet information.
+
+### Features
+- Live Packet Capture
+- Packet Numbering
+- Timestamp
+- Source IP Address
+- Destination IP Address
+- Protocol Detection (TCP, UDP, ICMP)
+- Source Port
+- Destination Port
+
+### Technologies Used
+- Python
+- Scapy
+- Npcap
+
+### Skills Learned
+- Packet Analysis
+- Network Monitoring
+- TCP/IP
+- Python Networking
 - Cyber Security Fundamentals
-- Secure Coding Practices
-- Authentication Systems
-- Security Awareness
-- Vulnerability Identification
-- Technical Documentation
-- Git & GitHub
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Tools & Technologies
 
-- Python 3
-- Visual Studio Code
+- Python
+- Scapy
+- Npcap
+- VS Code
 - Git
 - GitHub
-- Microsoft PowerPoint
-- Microsoft Word
 
 ---
 
-# 📈 Repository Progress
+# 📁 Repository Structure
 
-| Task | Status |
-|------|--------|
-| Task 1 | ⏳ Coming Soon |
-| Task 2 – Phishing Awareness | ✅ Completed |
-| Task 3 – Secure Coding Review | ✅ Completed |
-| Task 4 | ⏳ Coming Soon |
-
----
-
-# 👨‍💻 Author
-
-**Kashaf Waheed**
-
-Cyber Security Intern at **CodeAlpha**
-
-GitHub:
-https://github.com/kashafwaheed21
+```
+CodeAlpha-CyberSecurity/
+│
+├── Task-1-Phishing-Awareness/
+├── Task-2-Secure-Coding-Review/
+├── Task-3-Basic-Network-Sniffer/
+└── README.md
+```
 
 ---
 
-## ⭐ Thank You
+# 🎯 Internship Learning Outcomes
 
-Thank you for visiting my repository.
+Throughout this internship, I gained practical experience in:
 
-This repository will continue to grow as I complete more cybersecurity projects during my internship.
+- Cyber Security Fundamentals
+- Secure Coding Practices
+- Network Packet Analysis
+- Phishing Awareness
+- Python Programming
+- Git & GitHub
+- Technical Documentation
+
+---
+
+# 🙏 Acknowledgement
+
+I sincerely thank **CodeAlpha** for providing this internship opportunity and allowing me to strengthen my practical cybersecurity and Python development skills through hands-on projects.
+
+---
+
+⭐ Thank you for visiting my repository!
