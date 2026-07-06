@@ -6,11 +6,11 @@
 
 Welcome to my CodeAlpha Cyber Security Internship repository.
 
-This repository contains all the tasks I completed during my internship at CodeAlpha. Each task helped me strengthen my practical knowledge of cybersecurity concepts, secure programming, phishing awareness, and network analysis.
+This repository contains all the projects I completed during my internship at **CodeAlpha**. Each project helped me gain practical experience in cybersecurity, secure programming, phishing awareness, networking, and Python development.
 
 ---
 
-## 👨‍💻 Intern Information
+# 👨‍💻 About Me
 
 - **Name:** Kashaf Waheed
 - **Internship:** CodeAlpha Cyber Security Internship
@@ -19,34 +19,66 @@ This repository contains all the tasks I completed during my internship at CodeA
 
 ---
 
-# 📂 Completed Tasks
+# 📂 Internship Projects
 
-## ✅ Task 1 – Phishing Awareness Training
+## ✅ Task 1 – Basic Network Sniffer
 
-### Description
-Learned how phishing attacks work, how to identify suspicious emails, fake websites, and common social engineering techniques.
+**Description**
 
-### Skills Learned
-- Phishing Detection
-- Email Security
-- Social Engineering Awareness
-- Cyber Security Best Practices
+Developed a Python-based network packet sniffer using Scapy to capture and analyze live network traffic.
+
+### Features
+
+- Live packet capturing
+- Packet numbering
+- Timestamp
+- Source IP Address
+- Destination IP Address
+- Protocol Detection (TCP, UDP, ICMP)
+- Source Port
+- Destination Port
+
+### Skills Gained
+
+- Packet Sniffing
+- TCP/IP Networking
+- Scapy
+- Network Monitoring
+- Python Networking
 
 ---
 
-## ✅ Task 2 – Secure Coding Review
+## ✅ Task 2 – Phishing Awareness Training
 
-### Description
-Reviewed an intentionally vulnerable Python login system, identified security flaws, and developed a more secure version by applying secure coding practices.
+**Description**
+
+Learned how phishing attacks work and how to identify suspicious emails, fake websites, and common social engineering techniques.
+
+### Skills Gained
+
+- Phishing Detection
+- Email Security
+- Social Engineering
+- Cyber Security Awareness
+
+---
+
+## ✅ Task 3 – Secure Coding Review
+
+**Description**
+
+Reviewed a vulnerable Python login system, identified security flaws, and implemented a more secure authentication system.
 
 ### Security Improvements
+
 - Password masking using `getpass`
 - Limited login attempts
-- Removed unnecessary information exposure
-- Improved login validation
-- Better program structure
+- Secure authentication logic
+- Reduced information exposure
+- Improved code structure
 
-### Skills Learned
+### Skills Gained
+
 - Secure Coding
 - Authentication
 - Python Security
@@ -55,36 +87,7 @@ Reviewed an intentionally vulnerable Python login system, identified security fl
 
 ---
 
-## ✅ Task 3 – Basic Network Sniffer
-
-### Description
-Developed a Python-based network packet sniffer using Scapy that captures live network traffic and displays useful packet information.
-
-### Features
-- Live Packet Capture
-- Packet Numbering
-- Timestamp
-- Source IP Address
-- Destination IP Address
-- Protocol Detection (TCP, UDP, ICMP)
-- Source Port
-- Destination Port
-
-### Technologies Used
-- Python
-- Scapy
-- Npcap
-
-### Skills Learned
-- Packet Analysis
-- Network Monitoring
-- TCP/IP
-- Python Networking
-- Cyber Security Fundamentals
-
----
-
-# 🛠️ Tools & Technologies
+# 🛠️ Technologies & Tools
 
 - Python
 - Scapy
@@ -100,23 +103,28 @@ Developed a Python-based network packet sniffer using Scapy that captures live n
 ```
 CodeAlpha-CyberSecurity/
 │
-├── Task-1-Phishing-Awareness/
-├── Task-2-Secure-Coding-Review/
-├── Task-3-Basic-Network-Sniffer/
+├── Task-1-Basic-Network-Sniffer/
+│
+├── Task-2-Phishing-Awareness/
+│
+├── Task-3-Secure-Coding-Review/
+│
 └── README.md
 ```
 
 ---
 
-# 🎯 Internship Learning Outcomes
+# 🎯 Learning Outcomes
 
-Throughout this internship, I gained practical experience in:
+During this internship, I gained practical knowledge of:
 
+- Python Programming
 - Cyber Security Fundamentals
 - Secure Coding Practices
-- Network Packet Analysis
+- Packet Analysis
+- Network Monitoring
+- TCP/IP Networking
 - Phishing Awareness
-- Python Programming
 - Git & GitHub
 - Technical Documentation
 
@@ -124,8 +132,12 @@ Throughout this internship, I gained practical experience in:
 
 # 🙏 Acknowledgement
 
-I sincerely thank **CodeAlpha** for providing this internship opportunity and allowing me to strengthen my practical cybersecurity and Python development skills through hands-on projects.
+I sincerely thank **CodeAlpha** for providing this internship opportunity. The projects allowed me to strengthen both my cybersecurity knowledge and practical Python programming skills through hands-on learning.
 
 ---
+
+# 📬 Connect With Me
+
+If you have any suggestions or feedback, feel free to connect with me on LinkedIn or explore my GitHub repositories.
 
 ⭐ Thank you for visiting my repository!
